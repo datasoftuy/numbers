@@ -17,7 +17,7 @@ namespace Num
 
 
 
-            Console.WriteLine("Ingrese numero 2 distsssinto de  0 ");
+            Console.WriteLine("Ingrese numero 2 distffsssinto de  0 ");
             num2 = Convert.ToDouble(Console.ReadLine());
             
 
